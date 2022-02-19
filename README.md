@@ -1,5 +1,5 @@
 # ITSM-PROJECT
-***ABC Tech Company
+***ABC Tech Company***
 
 Business Case:
 ABC Tech is an mid-size organisation operation in IT-enabled businesssegment over a decade. On an average ABC Tech receives 22-25k IT incidents/tickets , which were handled to best practice ITIL frameworkwith incident management , problem management, change managementand configuration management processes. These ITIL practices attained matured process level and a recent audit confirmed that further improvement initiatives may not yield return of investment.ABC Tech management is looking for ways to improve the incident management process as recent customer survey results shows that incident management is rated as poor.
@@ -7,7 +7,7 @@ ABC Tech is an mid-size organisation operation in IT-enabled businesssegment ove
 Machine Learning as way to improve ITSM processesABC Tech management recently attended Machine Learning conference on
 ML for ITSM.Machine learning looks prospective to improve ITSM processes through prediction and automation. They came up with 4 key areas, where ML can
 
-***Help ITSM process in ABC Tech
+***Help ITSM process in ABC Tech***
 1. Predicting High Priority Tickets: To predict priority 1 & 2 tickets, so
 that they can take preventive measures or fix the problem before
 it surfaces.
@@ -18,9 +18,9 @@ technology planning.
 that reassigning and related delay can be reduced.
 4. Predict RFC (Request for change) and possible failure / misconfiguration of ITSM assets.
 
-***Data needs to be queried from MYSQL data base (Read Only Access)
+***Data needs to be queried from MYSQL data base (Read Only Access)***
 
-***Domin Analysis
+***Domin Analysis***
 
 Whether is ticket is open or closed. All tickets are closed, so this attribute in inconsequential
 It’s the no. of Hands offs between Resolution Agents before the issue gets resolved. Its could be 
